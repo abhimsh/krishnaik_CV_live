@@ -1,0 +1,6 @@
+pillow
+opencv-python
+piexif
+matplotlib
+seaborn
+numpy
